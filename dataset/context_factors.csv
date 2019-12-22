@@ -1,0 +1,43 @@
+id,title,display_title,active_in_training,active_in_prediction,value_id,cfv_title,cfv_description,cfv_active_in_training,cfv_active_in_prediction
+1,timeOfDay,"Time of Day",1,1,1,"early morning","it is early morning (04:00–08:00).",1,1
+1,timeOfDay,"Time of Day",1,1,2,"late morning","it is late morning (08:00–11:00).",1,1
+1,timeOfDay,"Time of Day",1,1,3,noon,"it is about noon (11:00–13:00).",1,1
+1,timeOfDay,"Time of Day",1,1,4,afternoon,"it is in the afternoon (13:00–18:00).",1,1
+1,timeOfDay,"Time of Day",1,1,5,evening,"it is in the evening (18:00–22:00).",1,1
+1,timeOfDay,"Time of Day",1,1,6,night,"it is night-time (22:00–04:00).",1,1
+2,dayOfTheWeek,"Day of the Week",0,1,7,weekdays,"it is a weekday.",0,1
+2,dayOfTheWeek,"Day of the Week",0,1,8,weekend,"it is the weekend.",0,1
+3,knowledgeOfTheArea,"Knowledge of the Area",0,1,9,"first-time visit","you're visiting this place for the first time.",0,1
+3,knowledgeOfTheArea,"Knowledge of the Area",0,1,10,workplace,"this is at your workplace.",0,1
+3,knowledgeOfTheArea,"Knowledge of the Area",0,1,11,home,"this is at your home.",0,1
+3,knowledgeOfTheArea,"Knowledge of the Area",0,1,12,"returning but irregular visit","you have been to this place before (but not regularly).",0,1
+3,knowledgeOfTheArea,"Knowledge of the Area",0,1,13,"regular visit","you're visiting this place frequently.",0,1
+4,social,Social,0,1,14,alone,"you're at this place by yourself.",0,1
+4,social,Social,0,1,15,"with partner","you're at this place with your partner (girlfriend/boyfriend/...).",0,1
+4,social,Social,0,1,16,"with family","you're at this place with your family and kids.",0,1
+4,social,Social,0,1,17,"with friends","you're at this place with your friends.",0,1
+4,social,Social,0,1,18,"with co-workers","you're at this place with your co-workers.",0,1
+5,crowdedness,Crowdedness,1,1,19,empty,"nobody else is at the location or using the object.",1,1
+5,crowdedness,Crowdedness,1,1,20,"medium crowded","the place is a bit crowded.",1,1
+5,crowdedness,Crowdedness,1,1,21,"very crowded","the place is very crowded.",1,1
+6,weather,Weather,1,1,22,sunny,"the weather is sunny.",1,1
+6,weather,Weather,1,1,23,cloudy,"the weather is cloudy (but not rainy).",1,1
+6,weather,Weather,1,1,24,snowy,"the weather is snowy.",1,1
+6,weather,Weather,1,1,25,rainy,"the weather is rainy.",1,1
+6,weather,Weather,1,1,26,windy,"the weather is windy.",1,1
+7,temperature,Temperature,1,1,27,cold,"the temperature is cold (< 0 °C).",1,1
+7,temperature,Temperature,1,1,28,cool,"the temperature is cool (0-9 °C).",1,1
+7,temperature,Temperature,1,1,29,mild,"the temperature is mild (10-19 °C).",1,1
+7,temperature,Temperature,1,1,30,warm,"the temperature is warm (20-29 °C).",1,1
+7,temperature,Temperature,1,1,31,hot,"the temperature is hot (> 30 °C).",1,1
+8,season,Season,0,1,32,Spring,"it is spring.",0,1
+8,season,Season,0,1,33,Summer,"it is summer.",0,1
+8,season,Season,0,1,34,Fall,"it is fall.",0,1
+8,season,Season,0,1,35,Winter,"it is winter.",0,1
+9,timeAvailable,"Time Available",0,1,36,"a few minutes","you have a few minutes available.",0,1
+9,timeAvailable,"Time Available",0,1,37,"a few hours","you have a few hours available.",0,1
+9,timeAvailable,"Time Available",0,1,38,"half a day","you have a half day available.",0,1
+9,timeAvailable,"Time Available",0,1,39,"whole day","you have a whole day available.",0,1
+10,durationOfTrip,"Duration of the Trip",1,1,40,"up to an hour","your current trip has lasted up to an hour so far.",1,1
+10,durationOfTrip,"Duration of the Trip",1,1,41,"a few hours","your current trip has lasted a few hours so far.",1,1
+10,durationOfTrip,"Duration of the Trip",1,1,42,"many hours","your current trip has lasted many hours or longer so far.",1,1

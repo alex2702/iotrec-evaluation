@@ -1,0 +1,74 @@
+id,title,display_title,description,type,indoorsLocation,active
+1,"public transport ticket machine","Public Transport Ticket Machine",,BCN_I,1,1
+2,"public transport ticket machine","Public Transport Ticket Machine",,BCN_I,0,0
+3,"railway ticket machine","Railway Ticket Machine",,BCN_I,1,0
+4,"railway ticket machine","Railway Ticket Machine",,BCN_I,0,0
+5,"public bathroom","Public Bathroom",,BCN_I,1,0
+6,ATM,ATM/Cashpoint,,BCN_I,1,1
+7,ATM,ATM/Cashpoint,,BCN_I,0,0
+8,"vending machine with drinks","Vending Machine with Drinks",,BCN_I,1,1
+9,"vending machine with drinks","Vending Machine with Drinks",,BCN_I,0,0
+10,"vending machine with food","Vending Machine with Food",,BCN_I,1,1
+11,"vending machine with food","Vending Machine with Food",,BCN_I,0,0
+12,printer,Printer,,BCN_I,1,1
+13,"photo booth","Photo Booth",,BCN_I,1,1
+14,"coffee machine","Coffee Machine",,BCN_I,1,1
+15,laundromat,Laundromat,"Public self-service laundry.",BCN_I,1,1
+16,"electric car charger","Charging Station for Electric Cars",,BCN_I,1,0
+17,"electric car charger","Charging Station for Electric Cars",,BCN_I,0,1
+18,"phone charging station","Public Phone Charging Station",,BCN_I,1,1
+19,arcade,Arcade,"Video games, pinball, air hockey, other coin-operated machines, …",BCN_I,1,1
+20,"airport check-in kiosk","Airport Check-In Kiosk",,BCN_I,1,1
+21,"photo printer","Photo Printing Station","Typically found in a supermarket, drugstore or similar.",BCN_I,1,1
+22,"food order machine in a restaurant","Order Kiosk in a Restaurant","Primarily used in fast food restaurants.",BCN_I,1,1
+23,"smart home control unit","Smart Home Control Unit","Mounted screen somewhere in your home.",BCN_I,1,1
+24,"public computer","Public Computer or Internet Terminal","Typically located in hotels, airports, …",BCN_I,1,1
+25,"drinking fountain","Drinking Fountain",,BCN_I,1,1
+26,"drinking fountain","Drinking Fountain",,BCN_I,0,0
+27,"gas station","Gas Station",,BCN_I,0,0
+28,"bike sharing station","Bike Sharing Station",,BCN_I,0,1
+29,"shared bike","Sharing Bike","Bike from a sharing provider, located outside a station.",BCN_I,0,1
+30,e-scooter,E-Scooter,,BCN_I,0,1
+31,"shared car","Sharing Car","Car from a sharing provider, located outside a station.",BCN_I,0,0
+32,"student card validation machine","Student Card Validation Machine","Machine used for extending your student ID (or some other identification).",BCN_I,1,0
+33,"payment card top-up station","Payment Card Top-Up Station","Payment cards for public transport, cashless payment at stadiums, …",BCN_I,1,0
+34,"payment card top-up station","Payment Card Top-Up Station","Payment cards for public transport, cashless payment at stadiums, …",BCN_I,0,0
+35,taxi,Taxi,,BCN_I,0,0
+36,"Uber car","Uber Car",,BCN_I,0,0
+37,"your own bike","Your Own Bike",,BCN_I,0,1
+38,"your own car","Your Own Car",,BCN_I,0,0
+39,"train station","Train Station",,BCN_I,0,0
+40,"bottle return machine","Bottle Return Machine",,BCN_I,1,1
+41,"phone booth","Phone Booth",,BCN_I,0,0
+42,"emergency phone","Emergency Phone",,BCN_I,1,0
+43,"emergency phone","Emergency Phone",,BCN_I,0,0
+44,"book vending machine","Book Vending Machine",,BCN_I,1,1
+45,"book vending machine","Book Vending Machine",,BCN_I,0,0
+46,"electronics vending machine","Electronics Vending Machine","Selling charging cables, computer mouses, phones, powerbanks, …",BCN_I,1,1
+47,"electronics vending machine","Electronics Vending Machine","Selling charging cables, computer mouses, phones, powerbanks, …",BCN_I,0,0
+48,"cigarette vending machine","Cigarette Vending Machine",,BCN_I,1,0
+49,"cigarette vending machine","Cigarette Vending Machine",,BCN_I,0,1
+50,"milk vending machine","Milk Vending Machine","Selling fresh, unprocessed milk. Typically requires you to bring your own bottle.",BCN_I,1,1
+51,"milk vending machine","Milk Vending Machine","Selling fresh, unprocessed milk. Typically requires you to bring your own bottle.",BCN_I,0,0
+52,"equipment vending machine","Equipment Vending Machine","Selling various pieces of equipment, such as bike tubes.",BCN_I,1,0
+53,"equipment vending machine","Equipment Vending Machine","Selling various pieces of equipment, such as bike tubes.",BCN_I,0,1
+54,"ice cream vending machine","Ice Cream Vending Machine",,BCN_I,1,1
+55,"ice cream vending machine","Ice Cream Vending Machine",,BCN_I,0,0
+56,"parking meter","Parking Meter",,BCN_I,0,1
+57,"stamps vending machine","Stamps Vending Machine",,BCN_I,1,0
+58,"stamps vending machine","Stamps Vending Machine",,BCN_I,0,1
+59,"public wifi access point","Public WiFi Access Point",,BCN_I,1,1
+60,"public wifi access point","Public WiFi Access Point",,BCN_I,0,0
+61,"gambling machine","Gambling Machine",,BCN_I,1,1
+62,"trade show booth","Trade Show Booth","One out of multiple booths at a trade show.",BCN_I,1,1
+63,"trade show booth","Trade Show Booth","One out of multiple booths at a trade show.",BCN_I,0,0
+64,"multimedia device in a museum","Multimedia Device at a Museum",,BCN_I,1,1
+65,"painting in a museum","Painting at a Museum",,BCN_I,1,1
+66,"sculptures in a museum","Sculpture at a Museum",,BCN_I,1,1
+67,"photography piece in a museum","Photography at a Museum",,BCN_I,1,1
+68,"ceramics piece in a museum","Ceramic/Pottery at a Museum",,BCN_I,1,0
+69,"art installation in a museum","Art Installation at a Museum",,BCN_I,1,1
+70,"parking ticket machine","Parking Ticket Machine",,BCN_I,0,1
+71,"post box","Post Box",,BCN_I,0,1
+72,"toy vending machine","Toy Vending Machine",,BCN_I,1,1
+73,"toy vending machine","Toy Vending Machine",,BCN_I,0,0

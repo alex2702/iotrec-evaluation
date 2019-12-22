@@ -1,0 +1,2 @@
+id,recommendation_threshold,category_weight,context_weight,locality_weight,nr_of_reference_things_per_thing,prediction_weight,evaluation_mode,training_active
+1,0.8,0.5,0.667,0.5,3,0.333,1,0

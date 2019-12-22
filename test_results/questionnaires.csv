@@ -1,0 +1,11 @@
+id,user_id,age,gender,qualification,smartphone_usage
+13,60,25-29,female,master,between2And4Hours
+14,51,18-24,male,bachelor,between2And4Hours
+15,69,30-39,male,master,between2And4Hours
+16,66,25-29,male,bachelor,between2And4Hours
+17,67,30-39,male,master,between2And4Hours
+18,64,olderThan60,male,master,between1And2Hours
+19,49,30-39,female,bachelor,between2And4Hours
+20,68,30-39,male,master,between2And4Hours
+21,59,olderThan60,female,doctorate,between1And2Hours
+22,57,25-29,male,bachelor,between2And4Hours
